@@ -4,13 +4,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiodellpozzo)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo)"/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block">
