@@ -1,5 +1,7 @@
 ## Welcome to Fabio Dell Pozzo's profile
 
+<img height="200em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo)"/>
+
 
 <div style="display: inline_block">
   
