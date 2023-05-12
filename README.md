@@ -22,7 +22,10 @@
      
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
      
-
+<!-- Compact layout -->
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=compact&langs_count=6&theme=transparent"/>
+     
+     
 
      
 
@@ -40,10 +43,7 @@
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
      
      
-  <!-- Compact layout -->
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=compact&langs_count=6&theme=transparent"/>
-     
-     
+  
   <!-- Pie Chart layout -->
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=pie&langs_count=6&theme=transparent"/>
      
