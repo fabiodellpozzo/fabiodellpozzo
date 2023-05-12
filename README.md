@@ -1,7 +1,13 @@
 ## Welcome to Fabio Dell Pozzo's profile
 
 
-
+<style>
+  div {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+</style>
 
 
 <div style="display: inline_block">
