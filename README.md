@@ -29,7 +29,9 @@
      
   <!-- Pie Chart layout -->
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=pie&langs_count=6&theme=transparent"/>
-  
+     
+  <!-- Wakatime Week Stats -->
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
 
      
    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&hide=contribs,prs"/>
