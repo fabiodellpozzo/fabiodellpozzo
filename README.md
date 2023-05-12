@@ -13,21 +13,15 @@
 
 <br>
 
+
+<!-- Stats -->
 <div>
-  
   <a href="https://github.com/fabiodellpozzo">
-     
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-     
-
-
-     
-
-
+  <img height="200em" border_color="disable" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
   
-  
-  <div>
+<!-- Stats -->
+<div>
   
 
 <!-- Compact layout -->
