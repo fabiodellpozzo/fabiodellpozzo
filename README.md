@@ -14,6 +14,7 @@
    <a href = "mailto:fabiodellpozzo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=?style=plastic&logo=appveyor&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/fabio-d-d-pozzo-991753271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=?style=plastic&logo=appveyor&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<br>
 
 <!-- Teste de atualização commit -->
 
