@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/fabiodellpozzo">
-   <img height="100%" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=compact&langs_count=6&theme=material-palenight"/>
 
 </div>
