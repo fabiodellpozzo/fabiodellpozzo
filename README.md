@@ -27,7 +27,7 @@
      
      
   <!-- Compact layout -->
-  <img height="250em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=compact&langs_count=6&theme=transparent"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=compact&langs_count=6&theme=transparent"/>
      
      
   <!-- Pie Chart layout -->
