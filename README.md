@@ -24,12 +24,8 @@
         />
      
    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
-     <img height="200em"
-          
-          src="
-   https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs
-               
-               "/>
+     
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs"/>
 
 </div>
  
