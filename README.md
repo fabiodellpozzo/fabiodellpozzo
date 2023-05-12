@@ -1,12 +1,7 @@
 ## Welcome to Fabio Dell Pozzo's profile
 
 
-<a href="https://github.com/fabiodellpozzo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiodellpozzo&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiodellpozzo&repo=fabiodellpozzo" />
-</a>
+
 
 
 <div style="display: inline_block">
@@ -25,7 +20,7 @@
   
    <a href="https://github.com/fabiodellpozzo">
      
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
      
   <!-- Donut Chart layout -->
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
