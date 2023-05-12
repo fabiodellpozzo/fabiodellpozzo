@@ -28,9 +28,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=pie&langs_count=6&theme=transparent"/>
 </div>
 -->
-
-<br>
-  ### Follow me!
  
 <div> 
  
