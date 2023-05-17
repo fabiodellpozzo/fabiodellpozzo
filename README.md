@@ -18,14 +18,6 @@
 </div>
 <br>
 
-
-<!-- Teste de atualização commit -->
-
-
-
-[![Fabiodellpozzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiodellpozzo)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!-- Stats -->
 <div>
   <a href="https://github.com/fabiodellpozzo">
