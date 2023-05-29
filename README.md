@@ -10,43 +10,42 @@
    <a href="https://www.linkedin.com/in/fabio-d-d-pozzo-991753271" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=?style=plastic&logo=appveyor&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
+
 <!-- Snake Animation -->
 <div> 
-
   ![Snake animation](https://github.com/fabiodellpozzo/fabiodellpozzo/blob/output/github-contribution-grid-snake.svg)
-
 </div>
-
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
 <br>
 
 
 <div>
-  <a href="https://github.com/fabiodellpozzo">
+     <a href="https://github.com/fabiodellpozzo">
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
+     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+     <img height="2000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
  
+</div>
+   
+   
 <!-- Stats 
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
+   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
+
+   <div>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=compact&langs_count=6&theme=transparent"/> 
+   </div>
+
+   <div>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
+   </div>
+
+   <div>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=pie&langs_count=6&theme=transparent"/>
+   </div>
 -->
-</div>
-<!-- Layouts 
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=compact&langs_count=6&theme=transparent"/> 
-</div>
--->
-  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
-</div>
-<!-- Layouts 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=pie&langs_count=6&theme=transparent"/>
-</div>
--->
- 
