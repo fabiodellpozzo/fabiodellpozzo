@@ -86,6 +86,14 @@
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain-wordmark.svg">
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain.svg">
    
+<!-- browsers -->
+   
+   <!-- crome -->
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg">
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-plain-wordmark.svg">
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-plain.svg">
+   
 </div>
 
 <br>
