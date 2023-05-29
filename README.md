@@ -39,6 +39,7 @@
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=compact&langs_count=6&theme=transparent"/> 
 </div>
+<!-- Layouts 
   <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
 </div>
