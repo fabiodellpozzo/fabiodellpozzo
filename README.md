@@ -3,7 +3,7 @@
 </a> 
 
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=Fabio Dell Pozzo's;Frontend+Developer+;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=Fabio+Dell+Pozzo+Profile;Frontend+Developer+;)
 <!--
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;Design+EStudante;)
 -->
