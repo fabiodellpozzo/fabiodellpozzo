@@ -24,7 +24,7 @@
    
 
    
-<img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg">
+<img align="center" alt="HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg">
 
    
    
