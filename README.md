@@ -1,6 +1,12 @@
 <a href="https://www.linkedin.com/in/fabio-d-d-pozzo-991753271" target="_blank" ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="55" width="55"></a> 
 ## Welcome to Fabio Dell Pozzo's profile 
 
+<div>
+  <a href="https://github.com/fabiodellpozzo">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
+</div>
+ 
 <div style="display: inline_block">
  
   <img align="center" alt="VSCode" title="VSCode" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -32,11 +38,7 @@
 
 ![Snake animation](https://github.com/fabiodellpozzo/fabiodellpozzo/blob/output/github-contribution-grid-snake.svg)
 
-<div>
-  <a href="https://github.com/fabiodellpozzo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
-</div>
+
       
 <!-- Stats 
    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
