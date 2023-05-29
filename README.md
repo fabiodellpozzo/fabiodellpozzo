@@ -35,15 +35,7 @@
   
 
   
-   
-   <a href="https://www.youtube.com/channel/UC8LI3bXsnifhy_gXcMp2_hA" target="_blank"></a>
-   <a href="https://instagram.com/fabioddpozzo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=?style=plastic&logo=appveyor&logo=instagram&logoColor=white" target="_blank"></a>
-   
-   <a href="https://discord.gg/c28hQNwf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=?style=plastic&logo=appveyor&logo=discord&logoColor=white" target="_blank"></a> 
-   
-   <a href = "mailto:fabiodellpozzo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=?style=plastic&logo=appveyor&logo=gmail&logoColor=white" target="_blank"></a>
-   
-  
+
   
   
   <a href="https://www.linkedin.com/in/fabio-d-d-pozzo-991753271" target="_blank" >
