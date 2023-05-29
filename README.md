@@ -30,17 +30,18 @@
 
 <!-- ides -->
    
-   <!-- vscode -->
-   <img align="center" alt="HTML" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-   
-   <!-- androidstudio --> 
-   <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-   
    <!-- gimp -->
    <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
    
    <!-- inkscape -->
    <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg">
+   
+   <!-- vscode -->
+   <img align="center" alt="HTML" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+   
+   
+   
+   
 
 <!-- languages -->
    
@@ -71,7 +72,8 @@
   <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 
    
-
+<!-- androidstudio --> 
+   <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
    
    
    
