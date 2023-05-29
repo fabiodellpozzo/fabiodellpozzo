@@ -23,10 +23,21 @@
 <div style="display: inline_block">
    
 
-   
+<!-- devicon icons -->
 <img align="center" alt="HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original-wordmark.svg">
 
-   
+ 
+<!-- browsers -->
+   <!-- firefox --> 
+   <img align="center" alt="Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original-wordmark.svg">
+   <img align="center" alt="Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg">
+   <img align="center" alt="Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain-wordmark.svg">
+   <img align="center" alt="Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg"> 
+   <!-- crome -->
+   <img align="center" alt="Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg">
+   <img align="center" alt="Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
+   <img align="center" alt="Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-plain-wordmark.svg">
+   <img align="center" alt="Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-plain.svg">
    
    
    
@@ -79,10 +90,7 @@
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
    
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original-wordmark.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg">
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain-wordmark.svg">
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg">
+
    
    
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
@@ -103,13 +111,7 @@
    
   
    
-<!-- browsers -->
-   
-   <!-- crome -->
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg">
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-plain-wordmark.svg">
-<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-plain.svg">
+
    
 </div>
 
