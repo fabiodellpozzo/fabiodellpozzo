@@ -1,7 +1,7 @@
 ## Welcome to Fabio Dell Pozzo's profile
 
 <!-- Links -->
-<div style="display: inline_block"> 
+<div> 
    <a href="https://www.youtube.com/channel/UC8LI3bXsnifhy_gXcMp2_hA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=?style=plastic&logo=appveyor&logo=youtube&logoColor=white" target="_blank"></a>
    
    <a href="https://www.youtube.com/channel/UC8LI3bXsnifhy_gXcMp2_hA" target="_blank"></a>
@@ -26,6 +26,11 @@
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+   
+   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </div>
 
 <br>
