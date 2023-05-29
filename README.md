@@ -1,7 +1,7 @@
 ## Welcome to Fabio Dell Pozzo's profile
 
 <!-- Links -->
-<div> 
+<div style="display: inline_block"> 
    <a href="https://www.youtube.com/channel/UC8LI3bXsnifhy_gXcMp2_hA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=?style=plastic&logo=appveyor&logo=youtube&logoColor=white" target="_blank"></a>
    
    <a href="https://www.youtube.com/channel/UC8LI3bXsnifhy_gXcMp2_hA" target="_blank"></a>
