@@ -3,7 +3,10 @@
 </a> 
 
 ## Fabio Dell Pozzo's profile
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=Frontend+Developer;Junior;)
+<!--
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;Design+EStudante;)
+-->
 
 <div>
   <a href="https://github.com/fabiodellpozzo">
