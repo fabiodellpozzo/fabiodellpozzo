@@ -49,7 +49,7 @@
 
 <br>
 
-![Snake animation](https://github.com/fabiodellpozzo/fabiodellpozzo/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
@@ -81,3 +81,5 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=pie&langs_count=6&theme=transparent"/>
    </div>
 -->
+ 
+ ![Snake animation](https://github.com/fabiodellpozzo/fabiodellpozzo/blob/output/github-contribution-grid-snake.svg)
