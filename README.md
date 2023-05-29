@@ -30,6 +30,8 @@
 -->  
 </div>
 
+![Snake animation](https://github.com/fabiodellpozzo/fabiodellpozzo/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Links -->
 
 
@@ -80,4 +82,4 @@
    </div>
 -->
  
- ![Snake animation](https://github.com/fabiodellpozzo/fabiodellpozzo/blob/output/github-contribution-grid-snake.svg)
+ 
