@@ -28,7 +28,9 @@
    
 <!-- androidstudio --> 
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-   
+ 
+<br>  
+  
 <!-- gimp -->    
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg">
  
