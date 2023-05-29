@@ -28,6 +28,8 @@
    
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-line.svg">
    
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-line.svg">
+   
    
    
    
