@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30">
 </a> 
 
-## Fabio Dell Pozzo's profile
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=Frontend+Developer;Junior+Developer;)
+
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=Fabio Dell Pozzo's;Frontend+Developer+;)
 <!--
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;Design+EStudante;)
 -->
