@@ -32,40 +32,12 @@
 
 ![Snake animation](https://github.com/fabiodellpozzo/fabiodellpozzo/blob/output/github-contribution-grid-snake.svg)
 
-<!-- Links -->
-
-
-<div> 
-  
-
-  
-
-  
-  
-  
-  
-   
-</div>
-
-<br>
-
-
-
-
-
-
-<br>
-
 <div>
-<a href="https://github.com/fabiodellpozzo">
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-   
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
- 
+  <a href="https://github.com/fabiodellpozzo">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fabiodellpozzo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
 </div>
-   
-   
+      
 <!-- Stats 
    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=donut&langs_count=6&theme=transparent"/>
 
@@ -81,5 +53,3 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodellpozzo&layout=pie&langs_count=6&theme=transparent"/>
    </div>
 -->
- 
- 
