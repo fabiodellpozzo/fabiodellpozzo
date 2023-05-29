@@ -1,5 +1,9 @@
 ## Welcome to Fabio Dell Pozzo's profile
 <div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/fabio-d-d-pozzo-991753271" target="_blank" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="55" width="55">
+  </a> 
+  
   <!-- vscode -->
   <img align="center" alt="HTML" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <!-- html5 -->
@@ -38,9 +42,6 @@
 
   
   
-  <a href="https://www.linkedin.com/in/fabio-d-d-pozzo-991753271" target="_blank" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="55" width="55">
-  </a> 
   
   
    
