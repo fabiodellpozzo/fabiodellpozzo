@@ -40,7 +40,7 @@
    <!-- androidstudio --> 
    <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain-wordmark.svg">
    <!-- gimp -->
-   <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg">
+   <img align="center" alt="Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg">
  
 <!-- inkscape -->
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg">
