@@ -48,8 +48,8 @@
   
   
   
-  <a href="https://www.linkedin.com/in/fabio-d-d-pozzo-991753271" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  <a href="https://www.linkedin.com/in/fabio-d-d-pozzo-991753271" target="_blank" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="55" width="55">
   </a> 
   
   
