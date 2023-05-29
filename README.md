@@ -39,10 +39,13 @@
    
    <!-- vscode -->
    <img align="center" alt="HTML" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
+   
    <!-- androidstudio --> 
    <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain-wordmark.svg">
+   
    <!-- gimp -->
    <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original-wordmark.svg">
+   
    <!-- inkscape -->
    <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original-wordmark.svg">
 
@@ -53,6 +56,10 @@
    
    <!-- css3 -->
    <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
+   <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+   
+   <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+   <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    
 <!-- javascript -->
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain-wordmark.svg">
