@@ -5,7 +5,7 @@
 </a>
 
 <!--
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;Design+EStudante;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;Development+Student;Future+Fillstack+Developer)
 -->
 
 <div>
