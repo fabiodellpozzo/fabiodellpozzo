@@ -1,11 +1,11 @@
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=Fabio+Dell+Pozzo+Profile;Frontend+Junior+Developer;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=Fabio+Dell+Pozzo+Profile;Frontend+Junior;Development+Student;Future+Follstack+Developer)
 <br>
 <a href="https://www.linkedin.com/in/fabio-d-d-pozzo-991753271" target="_blank" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30">
 </a>
 
 <!--
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;Development+Student;Future+Fillstack+Developer)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Developer;Development+Student;Future+Follstack+Developer)
 -->
 
 <div>
