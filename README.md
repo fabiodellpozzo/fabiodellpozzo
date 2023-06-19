@@ -1,4 +1,4 @@
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=FABIO+DELL+Pozzo+Profile;Dev+Junior;Development+Student;Future+FullStack+Developer)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=FABIO+DELL+POZZO+Profile;Dev+Junior;Development+Student;Future+FullStack+Developer)
 <br>
 <a href="https://www.linkedin.com/in/fabio-d-d-pozzo-991753271" target="_blank" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="30">
