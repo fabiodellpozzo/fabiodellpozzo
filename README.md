@@ -49,7 +49,7 @@
 
 ![Snake animation](https://github.com/fabiodellpozzo/fabiodellpozzo/blob/output/github-contribution-grid-snake.svg)
 
-<p>Como atuo no mercado corporativo com relacionamento a clientes adotei um termo muito usado hoje em dia entre os colaboradores "Sextou" e todo o apaixonado por conhecimento e tecnologia é denominado um "Geek" uni estes 2 termos para o meu apelido. Sobre o domínio diante minhas pesquisas a url geekou.com esta sendo usado por uma plataforma de jogos de cassino no qual não tem referência nenhuma com o meu projeto porém não concordando com a sua má utilizção já que direciona a links perigosos resolvi resgatar, garantindo que as urlas .io e .com.br não seja usadas para esta mesma finalidade. Nascendo assim "GEEKOU". </p>
+<p>Como atuo no mercado corporativo com relacionamento a clientes adotei um termo muito usado hoje em dia entre os colaboradores "Sextou" e todo o apaixonado por conhecimento e tecnologia é denominado um "Geek" uni estes 2 termos para o meu apelido. Sobre o domínio diante minhas pesquisas, identifiquei que a url geekou.com esta sendo usado por uma plataforma de jogos de cassino no qual não tem referência nenhuma com o meu projeto porém não concordando com a sua má utilizção já que direciona a links perigosos resolvi resgatar, garantindo que as urlas .io e .com.br não seja usadas para esta mesma finalidade. Nascendo assim "GEEKOU". </p>
 
 
       
