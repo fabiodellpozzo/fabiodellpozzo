@@ -54,7 +54,7 @@
 <p>Como atuo no mercado corporativo com relacionamento a clientes adotei um termo muito usado hoje em dia entre os colaboradores "Sextou" e todo o apaixonado por conhecimento e tecnologia é denominado um "Geek" uni estes 2 termos para o meu apelido. Sobre o domínio diante minhas pesquisas, identifiquei que a url 'geekou.com' esta sendo usado por uma plataforma de jogos de cassino no qual não tem referência nenhuma com o meu projeto porém não concordando com a sua má utilização já que direciona a links perigosos resolvi resgatar, garantindo que as urls '.io' e '.com.br' não sejam usadas para esta mesma finalidade. Nascendo assim "GEEKOU". </p>
 
 <p>Projeto de desenvolvimento do buscador open source. Baseado nos estudos de graduação em marketing digital, análise e desenvolvimento de sistemas e pós graduação em desenvolvimento mobile. Sendo uma pesquisa de desenvolvimento de produto.</p>
-<p>Unificando a tecnologia com o sentimento humano como iniciativa da prática do Marketing Digital 5.0 contrariando o fluxo que se desencadeia na área de tecnologia no qual busca por máquinas e lógica na substituição humana</p> 
+<p>Unificando a tecnologia com o sentimento humano como iniciativa da prática do Marketing Digital 5.0 contrariando o fluxo que se desencadeia na área de tecnologia no qual busca por máquinas e lógica na substituição humana no exaustivo esforço para promoverem sentimento nas máquinas</p> 
 
 <p>Propondo a aplicação do sentimento humano na convergência em tecnologia.</p>
 
