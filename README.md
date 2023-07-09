@@ -59,6 +59,8 @@
 <p>Diante uma era mercadológica e corporativa onde somos obrigados a aceitar com receios de risco de posições por desejar expressar afalhas processuais identificadas no qual é deixado fluirem de forma ineficiente para proteção de carreira. Atraindo o sufoco psicológico ao desejo de expressão rejeitado e retraido.
 </p>
 
+<p>Onde profissionais de copetência e visão são substituidos por colaboradores que mantem alinças sociais.</p>
+
 
       
 <!-- Stats 
