@@ -62,7 +62,7 @@
 <p>Diante uma era mercadológica e corporativa onde é imposto a aceitação e acatado por receios de risco de posições por desejar expressar falhas processuais identificadas no qual é deixado fluirem de forma ineficiente para proteção de carreira. Atraindo o sufoco psicológico ao desejo de expressão rejeitado e retraido.
 Onde profissionais de copetência e visão são substituidos por não manterem alianças sociais e de crença.</p>
 
-<p>Convertida a uma era de clientes extremamente atritosos e vingativos condicionados a relações de atendimento robotizados e comunicações industrializadas proposto por graduados em administração que adotam conceitos da antiga era industrial em suas estratégias, condicionando a substituição de relacionamento humano por robotização apartando-se do lado afetivo de relação de suas marcas com seus clientes para a busca do maior nível de economia e maximização de lucro, tornando seus clientes em máquinas de consumo se distânciando das reações de consumo.</p>
+<p>Convertida a uma era de clientes extremamente atritosos e vingativos condicionados a relações de atendimento robotizados e comunicações industrializadas proposto por graduados em administração que adotam conceitos da antiga era industrial em suas estratégias, condicionando a substituição de relacionamento humano por robotização apartando-se do lado afetivo de relação de suas marcas com seus clientes para a busca do maior nível de economia e maximização de lucro, tornando seus clientes em máquinas de consumo se negligenciando as reações de consumo.</p>
 
 <p>Convertendo líderes para pessoas de alto nível hirónico se fazendo valer de sua temporária segurança de cargo, social e financeira.</p>
 
