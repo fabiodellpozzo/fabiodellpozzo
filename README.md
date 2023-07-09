@@ -66,7 +66,7 @@ Onde profissionais de copetência e visão são substituidos por não manterem a
 
 <p>Automatizando líderes para pessoas de alto nível hirônico e apenas visualizadores apontadores de falhas sociais e relacionais e mensuradores de resultados se fazendo valer de sua temporária segurança social, hierárquica e financeira afastando da necessidade de correções processuais.</p>
 
-<p>O erro é a assinatura de que foi feito por ser humano.</p>
+<p>O erro e o aperfeiçoamento contínuo é a assinatura de que foi feito por ser humano.</p>
 
 
       
