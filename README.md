@@ -19,7 +19,8 @@
 <div style="display: inline_block">
  
   <img align="center" alt="VSCode" title="VSCode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="HTML5" title="HTML5" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML5"
+ title="HTML5" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" title="CSS3" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" title="JS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Bootstrap" title="Bootstrap" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
@@ -50,6 +51,9 @@
 ![Snake animation](https://github.com/fabiodellpozzo/fabiodellpozzo/blob/output/github-contribution-grid-snake.svg)
 
 <p>Como atuo no mercado corporativo com relacionamento a clientes adotei um termo muito usado hoje em dia entre os colaboradores "Sextou" e todo o apaixonado por conhecimento e tecnologia é denominado um "Geek" uni estes 2 termos para o meu apelido. Sobre o domínio diante minhas pesquisas, identifiquei que a url 'geekou.com' esta sendo usado por uma plataforma de jogos de cassino no qual não tem referência nenhuma com o meu projeto porém não concordando com a sua má utilização já que direciona a links perigosos resolvi resgatar, garantindo que as urls '.io' e '.com.br' não sejam usadas para esta mesma finalidade. Nascendo assim "GEEKOU". </p>
+
+<p>Projeto de desenvolvimento do buscador open source. Baseado nos estudos de graduação em marketing digital, análise e desenvolvimento de sistemas e pós graduação em desenvolvimento mobile. Sendo uma pesquisa de desenvolvimento de produto.</p>
+<p>Unificando a tecnologia com o sentimento humano como iniciativo da prática do Marketing Digital 5.0 contrariando o fluxo que se desencadeia na área de tecnologia no qual busca por máquinas se tornando humanos.</p>
 
 
       
