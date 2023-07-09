@@ -55,7 +55,7 @@
 
 <p>Projeto de desenvolvimento do buscador open source. Baseado nos estudos de graduação em marketing digital, análise e desenvolvimento de sistemas e pós graduação em desenvolvimento mobile. Sendo uma pesquisa de desenvolvimento de produto.</p>
 
-<p>Unificando a tecnologia com o sentimento humano como iniciativa da prática do Marketing Digital 5.0 contrariando o fluxo que se desencadeia na área de tecnologia no qual busca por máquinas e lógica na substituição humana no exaustivo esforço para promoverem sentimento nas máquinas, identificado que diante este cenário os seres humanos vem se comportando como robôs de produçãoe desenvolvedores não valorizando o sentimento humano vem automatizando cda vez mais suas atividades, distanciando a arte humana na produção tecnológica promovendo tecnologia na produção de tecnologia.</p>
+<p>Unificando a tecnologia com o sentimento humano como iniciativa da prática do Marketing Digital 5.0 contrariando o fluxo que se desencadeia na área de tecnologia no qual busca por máquinas e lógica na substituição humana no exaustivo esforço para promoverem sentimento nas máquinas, identificado que diante este cenário os seres humanos vem se comportando como robôs de produção e desenvolvedores não valorizando o sentimento humano vem automatizando cada vez mais suas atividades, distanciando a arte humana na produção tecnológica promovendo tecnologia na produção de tecnologia desencadiano a arte humana na produção tecnológica em algo obsoleto.</p>
 
 <p>Propondo a aplicação do sentimento humano na convergência em tecnologia.</p>
 
