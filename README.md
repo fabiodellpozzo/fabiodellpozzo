@@ -66,6 +66,8 @@ Onde profissionais de copetência e visão são substituidos por não manterem a
 
 <p>Convertendo líderes para pessoas de alto nível hirónico se fazendo valer de sua temporária segurança de cargo, social e financeira.</p>
 
+<p>O erro é a assinatura de que foi feito por ser humano.</p>
+
 
       
 <!-- Stats 
