@@ -61,7 +61,7 @@ Onde profissionais de copetência e visão são substituidos por não manterem a
 
 <p>Convertida a uma era de clientes extremamente atritosos e vingativos condicionados a relações de atendimento robotizados e comunicações industrializadas proposto por graduados em administração que adotam conceitos da era industrial em suas estratégias, condicionando a substituição de relacionamento humano por robotização distanciando o lado afetivo de relação de suas marcas com seus clientes para a busca do maior nível de economia e maximização de lucro.</p>
 
-<p>Convertendo líderes para pessoas de alto nível hirónico se fazendo valer de sua temporária segurança social e financeira.</p>
+<p>Convertendo líderes para pessoas de alto nível hirónico se fazendo valer de sua temporária segurança de cargo, social e financeira.</p>
 
 
       
