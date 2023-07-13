@@ -1,5 +1,4 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=Geekou+Profile;Dev+Junior;Development+Student;Future+FullStack+Developer)
-<br>
 
 ![Snake animation](https://github.com/fabiodellpozzo/fabiodellpozzo/blob/output/github-contribution-grid-snake.svg)
 <!--
